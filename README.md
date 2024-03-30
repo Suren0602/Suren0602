@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Suren0602
-- 🌱 I’m currently learning C
+-👋 Hi, I'm Suren, a back-end developer specializing in C#.
+💻 I build efficient and scalable solutions using C# and .NET.
+🔧 Proficient in ASP.NET Core, Entity Framework, SQL Server, and Azure.
+🌱 Always learning and eager to collaborate on exciting projects!
 
 
 <!---
